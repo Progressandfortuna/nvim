@@ -2,6 +2,10 @@ tags
 test.sh
 .luarc.json
 nvim
+<<<<<<< HEAD
 
 spell/
 #lazy-lock.json
+=======
+plugin/packer_compiled.lua
+>>>>>>> upstream/autoformat
