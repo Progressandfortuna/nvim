@@ -1,0 +1,11 @@
+# Package Manager folders (Lazy.nvim installs here)
+/lazy-repo.json
+
+# Neovim state/cache (Undo, Shada, Swap)
+/.netrwhist
+/undo/
+/swap/
+/backup/
+
+/lua/mason/
+/plugin/
